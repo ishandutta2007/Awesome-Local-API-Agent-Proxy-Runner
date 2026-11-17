@@ -76,7 +76,7 @@ Curated list of leading commercial SaaS platforms, enterprise API agent environm
 
 Explore the most capable open-source reverse proxies, local API debugging runtimes, mock engines, and network tunnels.
 
-> *Sorted descending by GitHub Stars_Count.*
+> *Sorted descending by GitHub_Stars_Count.*
 
 ### 🌐 Secure Ingress, Edge Tunneling &amp; Multiplexing
 
@@ -193,3 +193,12 @@ Distributed under the MIT License. See [LICENSE](file:///C:/Users/hp/Documents/P
 <p align="center">
   <strong>Built with ⚡ for developers, security researchers, and backend engineers.</strong>
 </p>
+
+## Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Local-API-Agent-Proxy-Runner&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Local-API-Agent-Proxy-Runner_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Local-API-Agent-Proxy-Runner_growth.svg">
+  </picture>
+</a>
