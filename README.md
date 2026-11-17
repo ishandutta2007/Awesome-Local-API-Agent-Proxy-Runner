@@ -48,6 +48,7 @@ flowchart LR
   - [🧪 API Clients, Mock Servers &amp; Testing Runtimes](#-api-clients-mock-servers--testing-runtimes)
 - [🎯 Developer Selection Matrix](#-developer-selection-matrix)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support &amp; Sponsorship](#-support--sponsorship)
 - [⭐ Star History](#-star-history)
 - [📜 License](#-license)
 
@@ -164,6 +165,16 @@ Contributions are welcome! Please follow these guidelines:
 3. ⭐ Ensure all open-source additions include valid star count badges linking to `stargazers`.
 4. 🔗 Verify that all URLs, pricing tiers, and limits are accurate.
 5. 🚀 Submit a Pull Request with a clear description of your additions.
+
+---
+
+## 💖 Support &amp; Sponsorship
+
+Thank you for exploring and using this repository! If you find this curated collection helpful for your developer workflows, local debugging, or open-source infrastructure, please consider supporting the project:
+
+- ⭐ **Star this repository** on GitHub to show your appreciation and help fellow developers discover it.
+- 🔀 **Fork &amp; Share** it with your engineering team, DevOps peers, and developer communities.
+- ☕ **Buy me a coffee / Sponsor**: You can sponsor ongoing curation, maintenance, and updates via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
 
 ---
 
