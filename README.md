@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Local-API-Agent-Proxy-Runner/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Local-API-Agent-Proxy-Runner?style=flat-square&color=gold" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Local-API-Agent-Proxy-Runner/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Local-API-Agent-Proxy-Runner?style=flat-square&color=gold" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Local-API-Agent-Proxy-Runner/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Local-API-Agent-Proxy-Runner?style=flat-square&color=blue" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Local-API-Agent-Proxy-Runner/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Local-API-Agent-Proxy-Runner/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"/></a>
@@ -76,7 +76,7 @@ Curated list of leading commercial SaaS platforms, enterprise API agent environm
 
 Explore the most capable open-source reverse proxies, local API debugging runtimes, mock engines, and network tunnels.
 
-> *Sorted descending by GitHub Star count.*
+> *Sorted descending by GitHub Stars_Count.*
 
 ### 🌐 Secure Ingress, Edge Tunneling &amp; Multiplexing
 
@@ -162,7 +162,7 @@ Contributions are welcome! Please follow these guidelines:
 
 1. 🍴 Fork the repository.
 2. 📝 Add or update entries in [README.md](file:///C:/Users/hp/Documents/Projects/Awesome-Local-API-Agent-Proxy-Runner/README.md) adhering to the tabular SaaS format or categorized open-source list.
-3. ⭐ Ensure all open-source additions include valid star count badges linking to `stargazers`.
+3. ⭐ Ensure all open-source additions include valid Stars_Count badges linking to `stargazers`.
 4. 🔗 Verify that all URLs, pricing tiers, and limits are accurate.
 5. 🚀 Submit a Pull Request with a clear description of your additions.
 
